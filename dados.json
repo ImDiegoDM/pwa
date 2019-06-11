@@ -1,0 +1,26 @@
+[
+  {
+    "nome": "Pale Ale",
+    "url": "images/image1.jpeg",
+    "dia":25,
+    "mes":"Julho"
+  },
+  {
+    "nome": "Belgin Ale",
+    "url": "images/image2.jpg",
+    "dia":8,
+    "mes":"Agosto"
+  },
+  {
+    "nome": "Lagger",
+    "url": "images/image3.jpg",
+    "dia":16,
+    "mes":"Setembro"
+  },
+  {
+    "nome": "Red Lagger",
+    "url": "images/image4.jpg",
+    "dia":25,
+    "mes":"Novembro"
+  }
+]
