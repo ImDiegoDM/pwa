@@ -28,6 +28,6 @@
   }],
   "start_url": "index.html",
   "display": "standalone",
-  "background_color": "#fb6b55",
-  "theme_color": "#fb6b55"
+  "background_color": "#6d2419",
+  "theme_color": "#6d2419"
 }
